@@ -1,1 +1,1 @@
-# CAPSTONE-C20
+# C20
